@@ -53,3 +53,4 @@ I have primarily used the LMS for analytical work. This was my initial project c
 * Code Institute https://learn.codeinstitute.net/ 
 * CoPilot for code correction and predictive suggestions
 * ChatGPT for debugging and code suggestions
+* Tutors and class mates
